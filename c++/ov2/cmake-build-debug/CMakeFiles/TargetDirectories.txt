@@ -1,0 +1,3 @@
+/Users/markusmadsbakken/Desktop/nettverk/c++/ov2/cmake-build-debug/CMakeFiles/ov2.dir
+/Users/markusmadsbakken/Desktop/nettverk/c++/ov2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markusmadsbakken/Desktop/nettverk/c++/ov2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
